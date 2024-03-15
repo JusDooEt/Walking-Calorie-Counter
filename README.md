@@ -1,1 +1,2 @@
-![giphy](https://github.com/JusDooEt/Walking-Calorie-Counter/assets/152052216/4da722e2-cdf2-476b-b861-94c7a55631a3)
+## Current Build
+![giphy](https://github.com/JusDooEt/Walking-Calorie-Counter/assets/152052216/fa750d66-b293-4e70-bb87-4e0ab3b4576e)
